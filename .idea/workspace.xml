@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8290fb9c-917d-4e58-b778-c26e0201a094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.SynesisIT.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solving.py" beforeDir="false" afterPath="$PROJECT_DIR$/solving.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,9 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lec" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -53,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec/lecture_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec/lecture_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lec/lecture_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
