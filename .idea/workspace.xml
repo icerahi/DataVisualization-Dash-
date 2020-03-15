@@ -4,12 +4,6 @@
     <list default="true" id="8290fb9c-917d-4e58-b778-c26e0201a094" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.SynesisIT.csv#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lec/lecture_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
