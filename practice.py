@@ -65,8 +65,7 @@ def update_graph(date_of_data):
         for date in list(date_of_data):
             data = data[data['Date']==date]
 
-        d = data['Date']
-        t= data['Time']
+
         datetime =list(data['Date']+' '+data['Time'])
 
         total_current = list(data['sum_of_line_currents'])

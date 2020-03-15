@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8290fb9c-917d-4e58-b778-c26e0201a094" name="Default Changelist" comment="" />
+    <list default="true" id="8290fb9c-917d-4e58-b778-c26e0201a094" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solving.py" beforeDir="false" afterPath="$PROJECT_DIR$/solving.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z1gO1NSkHp25SRC9BJOg5SLOQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -30,28 +40,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.practice">
-    <configuration name="lecture_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataVisualization" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.solving">
     <configuration name="lecture_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataVisualization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,13 +125,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solving" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solving.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solving" />
         <item itemvalue="Python.practice" />
         <item itemvalue="Python.lecture_4" />
         <item itemvalue="Python.lecture_3" />
         <item itemvalue="Python.lecture_2" />
-        <item itemvalue="Python.lecture_1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,22 +174,22 @@
       <screen x="45" y="27" width="1321" height="741" />
     </state>
     <state x="163" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584012517948" />
-    <state width="1298" height="164" key="GridCell.Tab.0.bottom" timestamp="1584274274618">
+    <state width="1298" height="170" key="GridCell.Tab.0.bottom" timestamp="1584280487497">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1298" height="164" key="GridCell.Tab.0.bottom/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584274274618" />
-    <state width="1298" height="164" key="GridCell.Tab.0.center" timestamp="1584274274617">
+    <state width="1298" height="170" key="GridCell.Tab.0.bottom/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584280487497" />
+    <state width="1298" height="170" key="GridCell.Tab.0.center" timestamp="1584280487497">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1298" height="164" key="GridCell.Tab.0.center/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584274274617" />
-    <state width="1298" height="164" key="GridCell.Tab.0.left" timestamp="1584274274617">
+    <state width="1298" height="170" key="GridCell.Tab.0.center/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584280487497" />
+    <state width="1298" height="170" key="GridCell.Tab.0.left" timestamp="1584280487497">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1298" height="164" key="GridCell.Tab.0.left/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584274274617" />
-    <state width="1298" height="164" key="GridCell.Tab.0.right" timestamp="1584274274618">
+    <state width="1298" height="170" key="GridCell.Tab.0.left/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584280487497" />
+    <state width="1298" height="170" key="GridCell.Tab.0.right" timestamp="1584280487497">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1298" height="164" key="GridCell.Tab.0.right/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584274274618" />
+    <state width="1298" height="170" key="GridCell.Tab.0.right/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584280487497" />
     <state x="291" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1584246629206">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
@@ -192,6 +202,10 @@
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="1564" y="69" width="1298" height="699" key="dock-window-2/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584264590484" />
+    <state x="1848" y="114" width="1298" height="699" key="dock-window-3" timestamp="1584280585859">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1848" y="114" width="1298" height="699" key="dock-window-3/45.27.1321.741/1366.0.1366.768@45.27.1321.741" timestamp="1584280585859" />
     <state x="368" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584200649328">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
