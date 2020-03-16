@@ -22,11 +22,6 @@ app.layout=html.Div(id='root',children=[
                      )
     ], ),
     html.Div(id='output'),
-
-
-
-
-
 ])
 
 
