@@ -4,9 +4,10 @@ import dash_core_components as dcc
 from dash.dependencies import Output,Input
 import pandas as pd
 import plotly.graph_objects as go
+from flask import Flask
 
-app=dash.Dash(__name__)
-
+server=Flask(__name__)
+app=dash.Dash(server=server)
 date = pd.read_csv('SynesisIT.csv',sep=";")['Date']
 
 
